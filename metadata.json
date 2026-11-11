@@ -1,0 +1,6 @@
+{
+  "name": "Kuntamukkala Connect",
+  "description": "Smart Village Community Management System for Kuntamukkala Village - Action Framework for Educational Accessibility, Drainage & Clean Surroundings",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
